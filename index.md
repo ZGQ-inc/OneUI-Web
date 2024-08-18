@@ -1,3 +1,9 @@
+---
+layout: page
+title: test
+permalink: /index/
+---
+
 # Markdown
 
 ## 标题
